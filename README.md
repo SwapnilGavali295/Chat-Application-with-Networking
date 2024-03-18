@@ -46,12 +46,3 @@ Once the server is running and clients are connected, users can:
 - View messages from other connected clients in the console.
 - Disconnect from the server by typing "Quit" in the client console.
 
-## Contributing
-
-Contributions to the Chat Application are welcome! If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and ensure they are well-tested.
-4. Submit a pull request detailing the changes you've made.
-
