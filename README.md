@@ -14,8 +14,6 @@ This is a simple chat application implemented in C++ using Winsock for socket pr
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
