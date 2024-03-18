@@ -1,6 +1,12 @@
 # Chat Application
 
 This is a simple chat application implemented in C++ using Winsock for socket programming. It allows multiple clients to connect to a server and communicate with each other in real-time.
+## Screenshots
+![Screenshot 2024-03-18 214006](https://github.com/SwapnilGavali295/Chat-Application-with-Networking/assets/137003175/25984964-1df9-44e0-9695-c289d2c64cf5)
+![Ca](https://github.com/SwapnilGavali295/Chat-Application-with-Networking/assets/137003175/68846f6a-a6b9-4e54-afe4-393a4d055c36)
+![cb](https://github.com/SwapnilGavali295/Chat-Application-with-Networking/assets/137003175/29bed10c-dec1-4ace-891a-71c605faf47e)
+![S](https://github.com/SwapnilGavali295/Chat-Application-with-Networking/assets/137003175/65378b46-220b-4908-92bb-660f17cc5b7e)
+
 
 ## Table of Contents
 
